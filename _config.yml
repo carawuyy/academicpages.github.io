@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CARAWUYY / LLM, AI, Medtech"
+title                    : "WU YONGYI / LLM, AI, Medtech, edutech"
 title_separator          : "-"
-name                     : &name "CARAWUYY"
-description              : &description "13"
+name                     : &name "WU YONGYI"
+description              : &description "personal description"
 url                      : https://daviddhc20120601.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "carawuyy/academicpages.github.io"
+repository               : "daviddhc20120601/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daviddhc20120601"
+  name             : "WU YONGYI"
   avatar           : "profile.png"
-  bio              : "a simple bio"
-  location         : "Singapore"
+  bio              : "hehehaha"
+  location         : "Greenland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daviddhc20120601"
+  github           : "Wu Yongyi"
   google_plus      :
   keybase          :
   instagram        :
@@ -307,5 +307,7 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  ignore:
+    envs: development
   ignore:
     envs: development
